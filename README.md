@@ -1,6 +1,6 @@
 | type | known | meta-known |
 | - | - | - |
-| known known | &#x2611; | &#x2611; |
-| known unknown | &#x2610; | &#x2611; |
-| unknown unknown | &#x2610; | &#x2610; |
-| ideology | &#x2611; | &#x2610; |
+| known known | :white_check_mark: | :white_check_mark: |
+| known unknown | :white_large_square: | :white_check_mark: |
+| unknown unknown | :white_large_square: | :white_large_square: |
+| ideology | :white_check_mark: | :white_large_square: |
