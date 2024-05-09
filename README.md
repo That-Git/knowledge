@@ -1,6 +1,6 @@
 | type | known | meta-known |
-| - | - | - |
-| known known | - [x] | - [x] |
-| known unknown | - [ ] | - [x] |
-| unknown unknown | - [ ] | - [ ] |
-| ideology | - [x] | - [ ] |
+| <ul><li>| - | - |
+| known known | <ul><li>[x]</li></ul> | - [x]</li></ul> |
+| known unknown | <ul><li>[ ]</li></ul> | - [x]</li></ul> |
+| unknown unknown | <ul><li>[ ]</li></ul> | - [ ]</li></ul> |
+| ideology | <ul><li>[x]</li></ul> | - [ ]</li></ul> |
